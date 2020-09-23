@@ -1,0 +1,201 @@
+[GENERAL SETTINGS]
+ 235 
+ 255 
+ 235 
+ 16 
+ 494 
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+255
+255
+255
+ FFFFFF
+ 
+[FINAL COLORS 1 - 10]
+True
+True
+ 13762513 
+ Web back color 
+True
+True
+  D1FFD1
+ 209, 255, 209
+True
+True
+ 9751696 
+ Green from banner gradient, right 
+True
+True
+  90CC94
+ 144, 204, 148
+True
+True
+ 1083983 
+ Dark green from animated figure 
+True
+True
+  4F8A10
+ 079, 138, 016
+True
+True
+ 461280 
+ Main title color 
+True
+True
+  E00907
+ 224, 009, 007
+True
+True
+ 15466475 
+ Background of textbox 
+True
+True
+  EBFFEB
+ 235, 255, 235
+True
+True
+ 8864000 
+ Normal link color 
+True
+True
+  004187
+ 000, 065, 135
+True
+True
+ 963 
+ Normal link, hover 
+True
+True
+  C30300
+ 195, 003, 000
+True
+True
+ 9781002 
+ Paragraph titles, all levels 
+True
+True
+  0A3F95
+ 010, 063, 149
+False
+False
+ 16777215 
+
+False
+False
+
+ 111, 000, 111
+False
+False
+ 16777215 
+
+False
+False
+
+ 191, 000, 191
+ 
+[PREFERENCES]
+
+
+
+ 
+[LINKS]
+ 004187
+ 000, 065, 135
+ D1FFD1
+ 209, 255, 209
+ 8864000 
+ 13762513 
+ C30300
+ 195, 003, 000
+ D1FFD1
+ 209, 255, 209
+ 963 
+ 13762513 
+ 4F8A10
+ 079, 138, 016
+ D1FFD1
+ 209, 255, 209
+ 1083983 
+ 13762513 
+ C30300
+ 195, 003, 000
+ D1FFD1
+ 209, 255, 209
+ 963 
+ 13762513 
+ 004187
+ 000, 065, 135
+ EBFFEB
+ 235, 255, 235
+ 8864000 
+ 15466475 
+ C30300
+ 195, 003, 000
+ EBFFEB
+ 235, 255, 235
+ 963 
+ 15466475 
+ FFFFFF
+ 255, 255, 255
+ FFFFFF
+ 255, 255, 255
+ 16777215 
+ 16777215 
+ FFFFFF
+ 255, 255, 255
+ FFFFFF
+ 255, 255, 255
+ 16777215 
+ 16777215 
+ FFFFFF
+ 255, 255, 255
+ FFFFFF
+ 255, 255, 255
+ 16777215 
+ 16777215 
+ FFFFFF
+ 255, 255, 255
+ FFFFFF
+ 255, 255, 255
+ 16777215 
+ 16777215 
+ 
+[TEXT]
+ 4F8A10
+ 079, 138, 016
+ D1FFD1
+ 209, 255, 209
+ 1083983 
+ 13762513 
+ 000000
+ 000, 000, 000
+ EBFFEB
+ 235, 255, 235
+ 0 
+ 15466475 
+
+
+
+
+ 14737632 
+ 16777215 
+
+
+
+
+ 14737632 
+ 16777215 
+
+
+
+
+ 14737632 
+ 16777215 
